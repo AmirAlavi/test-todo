@@ -1,8 +1,8 @@
 def foo():
     print("hi")
 
-# TODO bar function needs to do more
-# BODY much much
-# BODY much more
+# @todo bar function needs to do more
+# @body much much
+# @body much more
 def bar():
     print("bye")
